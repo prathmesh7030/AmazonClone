@@ -10,6 +10,7 @@
     color: white;
     display: flex;
     align-items: center;
+    justify-content: space-evenly;
 }
 
 
@@ -51,7 +52,7 @@
     display: flex;
 }
 
-/** Box2 **/
+/** Box3 **/
 
 .nav-search{
     display: flex;
@@ -84,4 +85,22 @@
     align-items: center;
     font-size: 1.2rem;
     background-color: #febd68;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    color: #0f1111;
+}
+
+.nav-search:hover{
+    border: 2px solid orange;
+}
+
+/** Box 4 **/
+
+span{
+    font-size: 0.7rem;
+}
+
+.nav-second{
+    font-size: 0.85rem;
+    font-weight: 700;
 }
