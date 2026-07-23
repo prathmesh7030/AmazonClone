@@ -128,9 +128,19 @@ span{
     justify-content: space-evenly;
 }
 
+.panel-all{
+    padding: 5px;
+}
+
 .panel-ops p{ 
     display: inline;
     margin-left: 15px;
+    border: 1.5px solid transparent;
+    padding: 5px;
+}
+
+.panel-ops p:hover{
+    border: 1.5px solid white;
 }
 
 .panel-ops{
@@ -142,6 +152,7 @@ span{
 .panel-deals{
     font-size: 0.9rem;
     font-weight: 700;
+    padding: 5px;
 }
 
 /** Hero-section **/
