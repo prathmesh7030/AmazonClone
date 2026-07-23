@@ -243,6 +243,11 @@ ul a {
     color: #dddddd;
 }
 
+.foot-panel2 ul a:hover{
+    text-decoration: underline;
+    text-decoration-color: #dddddd;
+}
+
 .foot-panel3{
     background-color: #222f3d;
     color: white;
@@ -303,6 +308,4 @@ ul a {
    padding-top: 5px;
 }
 
-.copyright:hover{
-     text-decoration: underline;
-}
+
