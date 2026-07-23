@@ -284,13 +284,25 @@ ul a {
     height: 80px;
     font-size: 0.75rem;
     text-align: center;
-    
 } 
+
+
+.foot-pages a:hover{
+    text-decoration: underline;
+}
 
 .foot-pages{
     padding-top: 25px;
 }
 
+.foot-pages a{
+    padding-left: 4px;
+}
+
 .copyright{
    padding-top: 5px;
+}
+
+.copyright:hover{
+     text-decoration: underline;
 }
