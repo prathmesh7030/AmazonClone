@@ -220,6 +220,14 @@ span{
     color: #007185;
 }
 
+   
+.second-shop-section{
+    height: 350px;
+    width: 100%;
+    border: 2px solid black;
+    background-image: url(https://images-eu.ssl-images-amazon.com/images/G/31/img24/Wireless/Mounika/July7/D351705487_WLD_WD-campaign-GW_Desktop-Hero_3000x1200._CB759125193_.jpg);
+    background-size: cover;
+}
 /** footer **/
 
 footer{
